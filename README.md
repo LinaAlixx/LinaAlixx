@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 👋 Hi, I'm Lina 
 
-🎓 **Computer and Network Engineering Graduate** (GPA: 4.94/5.00) from the Faculty of Computing and Information Technology in Jeddah. 
+🎓 **Computer and Network Engineering Graduate** (GPA: 4.94/5.00) from University of Jeddah. 
 I am highly passionate about blending embedded systems with artificial intelligence to build smart, impactful engineering solutions.
 
 ---
